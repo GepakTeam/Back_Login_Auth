@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|c:\\users\\anton\\downloads\\back_e_front_atualizado_2024rar\\back_asilo\\back_ultimaversao-1609\\asilo\\controllers\\prontuarioindividualcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|solutionrelative:controllers\\prontuarioindividualcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|c:\\users\\anton\\downloads\\back_e_front_atualizado_2024rar\\back_asilo\\back_ultimaversao-1609\\asilo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|c:\\users\\anton\\downloads\\back_e_front_atualizado_2024rar\\back_asilo\\back_ultimaversao-1609\\asilo\\data\\asilocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|solutionrelative:data\\asilocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|c:\\users\\anton\\downloads\\back_e_front_atualizado_2024rar\\back_asilo\\back_ultimaversao-1609\\asilo\\controllers\\individualdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|solutionrelative:controllers\\individualdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|c:\\users\\anton\\downloads\\back_e_front_atualizado_2024rar\\back_asilo\\back_ultimaversao-1609\\asilo\\controllers\\profissionaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|solutionrelative:controllers\\profissionaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|c:\\users\\anton\\downloads\\back_e_front_atualizado_2024rar\\back_asilo\\back_ultimaversao-1609\\asilo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|c:\\users\\anton\\downloads\\back_e_front_atualizado_2024rar\\back_asilo\\back_ultimaversao-1609\\asilo\\dtos\\account\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|solutionrelative:dtos\\account\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|c:\\users\\anton\\downloads\\back_e_front_atualizado_2024rar\\back_asilo\\back_ultimaversao-1609\\asilo\\asilo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{417041D9-FDF8-418E-82AA-D080FDCE665C}|Asilo.csproj|solutionrelative:asilo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfissionaisController.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\Controllers\\ProfissionaisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfissionaisController.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\Controllers\\ProfissionaisController.cs",
+              "RelativeToolTip": "Controllers\\ProfissionaisController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:27:34.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProntuarioIndividualController.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\Controllers\\ProntuarioIndividualController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProntuarioIndividualController.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\Controllers\\ProntuarioIndividualController.cs",
+              "RelativeToolTip": "Controllers\\ProntuarioIndividualController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:23:10.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndividualDto.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\Controllers\\IndividualDto.cs",
+              "RelativeDocumentMoniker": "Controllers\\IndividualDto.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\Controllers\\IndividualDto.cs",
+              "RelativeToolTip": "Controllers\\IndividualDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:12:02.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:42:40.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T14:35:27.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\DTOs\\Account\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Account\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\DTOs\\Account\\UserDTO.cs",
+              "RelativeToolTip": "DTOs\\Account\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:31:41.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Asilo.csproj",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\Asilo.csproj",
+              "RelativeDocumentMoniker": "Asilo.csproj",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\Asilo.csproj",
+              "RelativeToolTip": "Asilo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T14:30:52.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsiloContext.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\Data\\AsiloContext.cs",
+              "RelativeDocumentMoniker": "Data\\AsiloContext.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\Back_e_Front_Atualizado_2024rar\\Back_Asilo\\Back_UltimaVersao-1609\\Asilo\\Data\\AsiloContext.cs",
+              "RelativeToolTip": "Data\\AsiloContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:29:13.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
