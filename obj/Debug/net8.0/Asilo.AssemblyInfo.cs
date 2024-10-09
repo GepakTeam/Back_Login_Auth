@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Asilo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa77f49b5624a370388317780e039e7b10c1b2af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+914e20730eceb7a065e1a19c61fe762fccd271f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Asilo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Asilo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asilo", "Asilo.csproj", "{417041D9-FDF8-418E-82AA-D080FDCE665C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asilo.API", "Asilo.API.csproj", "{417041D9-FDF8-418E-82AA-D080FDCE665C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 using Asilo.Models;
 [ApiController]
 [Route("api/[controller]")]
-public class ProntuariosController : ControllerBase
+public class ProntuarioIndividualController : ControllerBase
 {
     private readonly AsiloContext _context;
 
-    public ProntuariosController(AsiloContext context)
+    public ProntuarioIndividualController(AsiloContext context)
     {
         _context = context;
     }
@@ -51,7 +51,7 @@ public class ProntuariosController : ControllerBase
         if (existingProntuario == null)
             return NotFound();
 
-        // Atualiza todos os campos do prontuário
+        
         existingProntuario.Nome = prontuario.Nome;
         existingProntuario.DataNascimento = prontuario.DataNascimento;
         existingProntuario.Idade = prontuario.Idade;
